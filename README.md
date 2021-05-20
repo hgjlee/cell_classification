@@ -15,10 +15,10 @@ Due to the size of the dataset and access to accelerators, our experiments were 
 ### Performance Summary
 ![Architecture](https://github.com/hgjlee/cell_classification/blob/e48871b26ade4a434233d529010ef5e32c7a6cd2/classification_results.png)
 
-### Color Histogram
+### Color-based Anomaly Detection
 ![Histogram](https://github.com/hgjlee/cell_classification/blob/e48871b26ade4a434233d529010ef5e32c7a6cd2/color_histogram.png)
 
-### Embedding Analysis
+### Embedding-based Anomaly Detection
 ![Embeddings](https://github.com/hgjlee/cell_classification/blob/e48871b26ade4a434233d529010ef5e32c7a6cd2/embeddings.png)
 
 ### Fine-tuned Embeddings
