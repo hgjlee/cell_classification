@@ -6,4 +6,4 @@ Due to the size of the dataset and access to accelerators, our experiments were 
 * [Exploratory Data Analysis / EfficientNetB7 / Class Weights / Anomaly Detection](https://www.kaggle.com/kicksomeasphalt/classifying-cells)
 * [Backbone Experiments / Hyperparameter Tuning](https://www.kaggle.com/scottbamford/hyperparameter-tuning#EfficentNetB7)
 
-![Poster](https://github.com/hgjlee/cell_classification/ML - Final Project Poster (1).pdf?raw=true)
+![Poster](https://github.com/hgjlee/cell_classification/blob/1a15b75944403a604c02ed599207597af3a7483b/ML%20-%20Final%20Project%20Poster%20.png?raw=true)
