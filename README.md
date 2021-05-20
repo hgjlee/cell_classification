@@ -5,3 +5,5 @@ Developing an accurate and reliable model for automatic human cell protein class
 Due to the size of the dataset and access to accelerators, our experiments were conducted on Kaggle Notebook. Please take a look at the following notebooks for reference. 
 * [Exploratory Data Analysis / EfficientNetB7 / Class Weights / Anomaly Detection](https://www.kaggle.com/kicksomeasphalt/classifying-cells)
 * [Backbone Experiments / Hyperparameter Tuning](https://www.kaggle.com/scottbamford/hyperparameter-tuning#EfficentNetB7)
+
+![Poster](https://github.com/hgjlee/cell_classification/ML - Final Project Poster (1).pdf?raw=true)
