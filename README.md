@@ -6,4 +6,24 @@ Due to the size of the dataset and access to accelerators, our experiments were 
 * [Exploratory Data Analysis / EfficientNetB7 / Class Weights / Anomaly Detection](https://www.kaggle.com/kicksomeasphalt/classifying-cells)
 * [Backbone Experiments / Hyperparameter Tuning](https://www.kaggle.com/scottbamford/hyperparameter-tuning#EfficentNetB7)
 
-![Poster](https://github.com/hgjlee/cell_classification/blob/1a15b75944403a604c02ed599207597af3a7483b/ML%20-%20Final%20Project%20Poster%20.png?raw=true)
+### Backbone Experiments and Hyperparameter Tuning
+![Experiment Results](https://github.com/hgjlee/cell_classification/blob/19eca8f578ca40ac959000d077ba046cfe91dd92/Table%20of%20Results.png?raw=true)
+
+### Final Architecture
+![Architecture](https://github.com/hgjlee/cell_classification/blob/e48871b26ade4a434233d529010ef5e32c7a6cd2/model_architecture.png)
+
+### Performance Summary
+![Architecture](https://github.com/hgjlee/cell_classification/blob/e48871b26ade4a434233d529010ef5e32c7a6cd2/classification_results.png)
+
+### Color Histogram
+![Histogram](https://github.com/hgjlee/cell_classification/blob/e48871b26ade4a434233d529010ef5e32c7a6cd2/color_histogram.png)
+
+### Embedding Analysis
+![Embeddings](https://github.com/hgjlee/cell_classification/blob/e48871b26ade4a434233d529010ef5e32c7a6cd2/embeddings.png)
+
+### Fine-tuned Embeddings
+![fine-tuned](https://github.com/hgjlee/cell_classification/blob/e48871b26ade4a434233d529010ef5e32c7a6cd2/fine_tuned.png)
+
+### Class Weighting
+![fine-tuned](https://github.com/hgjlee/cell_classification/blob/e48871b26ade4a434233d529010ef5e32c7a6cd2/class_weighting.png)
+
